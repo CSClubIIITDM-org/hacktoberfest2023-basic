@@ -2,6 +2,7 @@
 
 Add them to this ol
 
+0. Write a program to print the string "Hello, World"
 1. Nth Natural Number
 2. Smallest Positive Integer that cannot be represented as Sum of Elements of the given array
 3. Write a program to find the only non-duplicate number in an array where all other elements have been repeated even number of times. (eg. [2, 3, 7, 3, 1, 7, 7, 9, 2, 9, 7] ans-1)
