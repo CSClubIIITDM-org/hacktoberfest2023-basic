@@ -1,4 +1,4 @@
-# HacktoberFest 2022 [For 2nd year only]
+# HacktoberFest 2023 [For 2nd year only]
 
 **READ THE RULES FOR CONTRIBUTION CAREFULLY! Any PR (Pull Request) that violates rules will be marked SPAM.**
 
