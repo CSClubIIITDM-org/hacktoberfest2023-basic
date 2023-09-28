@@ -6,6 +6,12 @@ A repository containing basic programming questions in C, C++ and Python.
 
 **_Not Affiliated with Digital Ocean or Hacktoberfest._**
 
+## 📆 Event Details
+
+Starts on Oct 1st 8 Hrs
+
+Ends on Oct 31st 23:59 Hrs
+
 ## 🤓 CONTRIBUTING!
 
 ### 💯 Rules:
