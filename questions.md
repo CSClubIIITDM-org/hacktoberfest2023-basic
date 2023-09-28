@@ -1,7 +1,5 @@
 # Questions
 
-Add them to this ol
-
 0. Write a program to print the string "Hello, World"
 1. Nth Natural Number
 2. Smallest Positive Integer that cannot be represented as Sum of Elements of the given array
