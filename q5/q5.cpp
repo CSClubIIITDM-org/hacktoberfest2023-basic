@@ -12,7 +12,7 @@ int main()
     //Calculating One Symbol at a time
     for (int i=0;i<roman.length();i++)
     {
-        if(roman [i]=='M')
+        if(roman[i]=='M')
         {
             n+=1000;
         }
